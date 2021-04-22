@@ -138,4 +138,5 @@ backup:
   theme: next
   message: back up www.hwq.icu
   repository:
-    github: git@github.com:huawenqing/huawenqing.github.io.git,backup
+    #github: git@github.com:huawenqing/huawenqing.github.io.git,backup
+    github: git@github.com:huawenqing/blog_backup.git,master
