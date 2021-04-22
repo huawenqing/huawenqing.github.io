@@ -636,7 +636,7 @@ gitalk:
   enable: true
   github_id: huawenqing # GitHub repo owner
   repo: huawenqing.github.io # Repository name to store issues
-  client_id:f78da94285555e2b12cc  # GitHub Application Client ID
+  client_id: f78da94285555e2b12cc  # GitHub Application Client ID
   client_secret: e6c76a4c95b1d495ca3bbc66794d3c4465778342 # GitHub Application Client Secret
   admin_user: huawenqing # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
   distraction_free_mode: true # Facebook-like distraction free mode
