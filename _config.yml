@@ -140,3 +140,8 @@ backup:
   repository:
     github: git@github.com:huawenqing/huawenqing.github.io.git,backup
 
+# hexo-admin authentification
+admin:
+  username: huawenqing
+  password_hash: $2a$10$kvclUGGs.LCwvHHQj0kUSOli/mN9KNzEVQCsEKBoabLCWImDlakfK
+  secret: huawenqing'sblog
