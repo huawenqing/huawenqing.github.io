@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://www.hwq.icu
-permalink: :year/:month/:day/:title/
+permalink: posts/:abbrlink/ #:year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -142,6 +142,12 @@ backup:
 
 # hexo-admin authentification
 admin:
-  username: huawenqing
-  password_hash: $2a$10$kvclUGGs.LCwvHHQj0kUSOli/mN9KNzEVQCsEKBoabLCWImDlakfK
-  secret: huawenqing'sblog
+#  username: huawenqing
+#  password_hash: $2a$10$kvclUGGs.LCwvHHQj0kUSOli/mN9KNzEVQCsEKBoabLCWImDlakfK
+#  secret: huawenqing'sblog
+   deployCommand: ./admin_script/hexo-d.sh
+
+# abbrlink config
+abbrlink:
+  alg: crc32  # 算法：crc16(default) and crc32
+  rep: hex    # 进制：dec(default) and hex
