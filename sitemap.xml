@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.hwq.icu/dairy/index.html</loc>
+    <loc>https://www.hwq.icu/series/index.html</loc>
     
-    <lastmod>2021-04-26</lastmod>
+    <lastmod>2021-04-28</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.hwq.icu/series/index.html</loc>
+    <loc>https://www.hwq.icu/dairy/index.html</loc>
     
     <lastmod>2021-04-26</lastmod>
     
@@ -123,7 +123,7 @@
 
   <url>
     <loc>https://www.hwq.icu/</loc>
-    <lastmod>2021-04-26</lastmod>
+    <lastmod>2021-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -131,14 +131,14 @@
   
   <url>
     <loc>https://www.hwq.icu/tags/%E5%B0%8F%E8%AF%B4/</loc>
-    <lastmod>2021-04-26</lastmod>
+    <lastmod>2021-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.hwq.icu/tags/%E8%AF%97/</loc>
-    <lastmod>2021-04-26</lastmod>
+    <lastmod>2021-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -147,14 +147,14 @@
   
   <url>
     <loc>https://www.hwq.icu/categories/%E5%B0%8F%E8%AF%B4/</loc>
-    <lastmod>2021-04-26</lastmod>
+    <lastmod>2021-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.hwq.icu/categories/%E8%AF%97/</loc>
-    <lastmod>2021-04-26</lastmod>
+    <lastmod>2021-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
