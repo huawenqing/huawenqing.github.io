@@ -1,8 +1,8 @@
----
 title: 孤独
 author: 沙蚕
 tags:
   - 诗
+  - '2016'
 categories:
   - 诗
 abbrlink: 164f9681

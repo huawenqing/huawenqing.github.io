@@ -1,10 +1,11 @@
----
 title: 如何表达我爱你
 tags:
   - 诗
-categories: 诗
+  - '2016'
+categories:
+  - 诗
 abbrlink: 991b10d5
-date: 2021-04-21 01:48:22
+date: 2021-04-21 01:48:00
 ---
 
 水是喜欢风的
