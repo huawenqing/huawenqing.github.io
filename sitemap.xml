@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hwq.icu/posts/5790efc9/</loc>
+    
+    <lastmod>2021-09-30</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hwq.icu/dairy/index.html</loc>
     
     <lastmod>2021-09-28</lastmod>
@@ -445,7 +452,7 @@
 
   <url>
     <loc>https://hwq.icu/</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-09-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -453,42 +460,42 @@
   
   <url>
     <loc>https://hwq.icu/tags/%E8%AF%97/</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-09-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hwq.icu/tags/2016/</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-09-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hwq.icu/tags/%E5%B0%8F%E8%AF%B4/</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-09-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hwq.icu/tags/2017/</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-09-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hwq.icu/tags/%E7%90%86%E6%83%B3/</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-09-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hwq.icu/tags/%E5%A4%8F%E5%A4%A9/</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-09-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -497,14 +504,14 @@
   
   <url>
     <loc>https://hwq.icu/categories/%E8%AF%97/</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-09-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hwq.icu/categories/%E5%B0%8F%E8%AF%B4/</loc>
-    <lastmod>2021-09-28</lastmod>
+    <lastmod>2021-09-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
