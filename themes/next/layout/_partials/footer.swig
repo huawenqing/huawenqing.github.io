@@ -53,20 +53,7 @@
 {%- endif %}
 
 {%- if theme.add_this_id %}
-  <div class="addthis_inline_share_too<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    <span><br></span>   
-    <span class="post-meta-item-icon">
-          <i class="fa fa-group"></i>
-    </span>
-    <span>总访客&nbsp<span id="busuanzi_value_site_uv"></span>&nbsp人</span>
-        <span class="post-meta-divider">|</span>
-    <span class="post-meta-item-icon">
-          <i class="fa fa-eye"></i>
-    </span>
-        <span>访问总量&nbsp<span id="busuanzi_value_site_pv"></span>&nbsp次</span>
-        
-{{- next_inject('footer') }}
-ulbox">
+  <div class="addthis_inline_share_toolbox">
     <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ theme.add_this_id }}" async="async"></script>
   </div>
 {%- endif %}

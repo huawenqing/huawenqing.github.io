@@ -117,14 +117,16 @@
             </span>
           {%- endif %}
 
+{%- if theme.busuanzi_count.total_visitors and theme.busuanzi_count.total_views %}
+    <span class="post-meta-divider">|</span>
+  {%- endif %}
+
           {%- if not is_index and theme.busuanzi_count.enable and theme.busuanzi_count.post_views %}
-            <span class="post-meta-item" title="{{ __('post.views') }}" id="busuanzi_container_page_pv" style="display: none;">
               <span class="post-meta-item-icon">
                 <i class="{{ theme.busuanzi_count.post_views_icon }}"></i>
               </span>
               <span class="post-meta-item-text">{{ __('post.views') + __('symbol.colon') }}</span>
               <span id="busuanzi_value_page_pv"></span>
-            </span>
           {%- endif %}
 
           {{- next_inject('postMeta') }}
