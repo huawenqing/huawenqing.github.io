@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>夏</title>
-      <link href="/posts/e7042c05/"/>
-      <url>/posts/e7042c05/</url>
+      <title>test</title>
+      <link href="/posts/d87f7e0c/"/>
+      <url>/posts/d87f7e0c/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><script>console.error("Error: [hexo-tag-aplayer] Specified asset file not found (“https://p1.music.126.net/TUGO1gz0hq_f00o4DN0ocg==/80264348833252.jpg?param=34y34”)");</script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>test</p>    <div id="aplayer-CjEVzPkK" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="31654455" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div>]]></content>
       
       
       
