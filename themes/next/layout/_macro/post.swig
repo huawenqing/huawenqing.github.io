@@ -117,11 +117,13 @@
             </span>
           {%- endif %}
 
+
+          {%- if not is_index and theme.busuanzi_count.enable and theme.busuanzi_count.post_views %}
 {%- if theme.busuanzi_count.total_visitors and theme.busuanzi_count.total_views %}
     <span class="post-meta-divider">|</span>
   {%- endif %}
 
-          {%- if not is_index and theme.busuanzi_count.enable and theme.busuanzi_count.post_views %}
+
               <span class="post-meta-item-icon">
                 <i class="{{ theme.busuanzi_count.post_views_icon }}"></i>
               </span>

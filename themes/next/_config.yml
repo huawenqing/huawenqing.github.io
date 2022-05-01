@@ -121,6 +121,7 @@ menu:
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
   series: /series/ || fa fa-user
+  #playlist: /playlist/ || fa fa-music
   dairy: /dairy/ || fa fa-comment
   about: /about/ || fa fa-user
   #schedule: /schedule/ || fa fa-calendar
