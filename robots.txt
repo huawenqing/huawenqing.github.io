@@ -8,5 +8,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://hwq.icu/sitemap.xml
-Sitemap: https://hwq.icu/baidusitemap.xml
+Sitemap: https://wenqinghua.com/sitemap.xml
+Sitemap: https://wenqinghua.com/baidusitemap.xml
