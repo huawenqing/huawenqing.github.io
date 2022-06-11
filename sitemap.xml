@@ -1166,13 +1166,6 @@
   </url>
   
   <url>
-    <loc>https://wenqinghua.com/tags/2019/</loc>
-    <lastmod>2022-06-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wenqinghua.com/tags/2018/</loc>
     <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
@@ -1181,6 +1174,13 @@
   
   <url>
     <loc>https://wenqinghua.com/tags/%E6%A2%A6/</loc>
+    <lastmod>2022-06-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenqinghua.com/tags/2019/</loc>
     <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1243,14 +1243,14 @@
   </url>
   
   <url>
-    <loc>https://wenqinghua.com/tags/%E6%88%91/</loc>
+    <loc>https://wenqinghua.com/tags/%E4%BA%BA%E7%94%9F/</loc>
     <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://wenqinghua.com/tags/%E4%BA%BA%E7%94%9F/</loc>
+    <loc>https://wenqinghua.com/tags/%E6%88%91/</loc>
     <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
