@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wenqinghua.com/posts/e43ae634/</loc>
+    
+    <lastmod>2022-06-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://wenqinghua.com/posts/1d8ac75/</loc>
     
     <lastmod>2022-06-12</lastmod>
@@ -1307,6 +1314,20 @@
   
   <url>
     <loc>https://wenqinghua.com/tags/%E8%87%AA%E5%B7%B1/</loc>
+    <lastmod>2022-06-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenqinghua.com/tags/2021/</loc>
+    <lastmod>2022-06-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenqinghua.com/tags/%E7%8C%AB/</loc>
     <lastmod>2022-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
